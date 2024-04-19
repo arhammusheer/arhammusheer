@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Kubernetes** or [**AudioShelf**](https://getaudioshelf.com)
 
 - 📫 How to reach me **arhammusheer@gmail.com**
 
